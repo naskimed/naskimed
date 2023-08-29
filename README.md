@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🧑🏻‍🎓 Final-year engineering student with a strong foundation in Machine Learning and Web Development<br>📈 Currently, I am interning at a Finance startup where I am actively involved in constructing a Deep Reinforcement Learning model.<br>🔥 I am eager to collaborate on projects involving machine learning and deep learning.<br>🚀 Additionally, I am seeking assistance with deploying my AI projects.<br>🐍 Feel free to inquire about anything related to Python, machine learning algorithms, deep learning, and LLMs. <br>How to reach me: @naskimed<br>♟ On a lighter note, I have a passion for playing chess and you can challenge me on chess.com: friend.chess.com/n83bv.
+🧑🏻‍🎓 Final-year engineering student with a strong foundation in Machine Learning and Web Development<br>📈 Currently, I am interning at a Finance startup where I am actively involved in constructing a Deep Reinforcement Learning model.<br>🔥 I am eager to collaborate on projects involving machine learning and deep learning.<br>🚀 Additionally, I am seeking assistance with deploying my AI projects.<br>🐍 Feel free to inquire about anything related to Python, machine learning algorithms, deep learning, and LLMs. <br>👋🏼 How to reach me: @naskimed<br>♟ On a lighter note, I have a passion for playing chess and you can challenge me on chess.com: friend.chess.com/n83bv.
 
 
 ## 🌐 Socials:
